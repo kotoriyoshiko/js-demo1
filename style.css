@@ -1,0 +1,16 @@
+.demo{
+    border: 1px solid rebeccapurple;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
